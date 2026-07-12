@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://datamall.lta.gov.sg/content/dam/datamall/datasets/LTA_DataMall_API_User_Guide.pdf
 common:
+  - type: DomainSecurity
+    url: security/land-transport-authority-datamall-singapore-domain-security.yml
   - type: Website
     url: https://datamall.lta.gov.sg/content/dam/datamall/datasets/LTA_DataMall_API_User_Guide.pdf
   - type: PublicAPIsListing
