@@ -39,7 +39,6 @@ apis:
   - name: Land Transport Authority DataMall, Singapore
     description: "Singapore transport information"
     humanURL: https://datamall.lta.gov.sg/content/dam/datamall/datasets/LTA_DataMall_API_User_Guide.pdf
-    baseURL: https://datamall.lta.gov.sg/content/dam/datamall/datasets/LTA_DataMall_API_User_Guide.pdf
     tags:
       - Transportation
     properties:
